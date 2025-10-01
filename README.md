@@ -76,52 +76,6 @@ Create a method `seatsTogether()` which returns the number of groups of two or m
 
 10. Create the method and answer how many groups of two or more seats are open consecutively?
 
-
-
-Add a `toString()` method to your class `Venue` which prints out the seating chart and the ticket price.
-
-```
-0,1,1,0,0,1,1,0,0,1
-1,0,0,1,1,0,0,1,0,1
-1,1,0,1,0,0,1,0,0,0
-0,0,1,0,1,0,0,1,1,0
-1,0,0,1,1,1,0,0,0,1
-0,1,1,0,1,0,1,1,0,0
-1,0,1,0,0,1,0,1,1,1
-0,1,0,1,0,1,0,0,0,1
-1,0,0,1,1,0,0,0,1,0
-0,0,1,0,1,1,1,0,0,0
-1,0,1,0,1,0,1,1,0,0
-0,1,1,0,1,1,0,0,1,0
-1,1,0,1,0,0,0,1,1,1
-0,0,1,1,0,1,0,0,1,0
-1,0,0,0,1,0,1,0,0,1
-
-Ticket Price: $15.00
-```
-
-4. Create your `toString()` method now then call it on your `Venue` from the `VenueRunner` class.
-
-Write a method that gets the value of a specific row and column of the seating chart. 
-
-5. Create the method and answer the question is the seat at row 7, column 3 taken? 
-
-Create a method inside `Venue` to calculate the number of available seats across the whole venue.
-
-6. Create the method and display the number of empty seats. 
-
-Now create methods inside `Venue` to calculate the number of available seats in a given row and a given column. 
-
-7. Create the two methods, then use them to calculate the number of empty seats in row 1 and column 5. 
-
-Create a method `profits()` which returns the total number of tickets sold times the ticket price
-
-8. Create `profits()` and display the profits for the `Venue`. 
-
-Create another method called `printSpaceSaver()` which prints the seating chart rotated to the left 90 degrees(the rows and columns are flipped).
-
-9. Use the method to print out the `Venue` in column-major order.
-
 Create a method `seatsTogether()` which returns the number of groups of two or more consecutive seats. 
 
 10. Create the method and answer how many groups of two or more seats are open consecutively?
